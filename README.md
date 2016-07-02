@@ -4,7 +4,7 @@ This project rocks and uses MIT-LICENSE.
 
 # Usage
 
-`gem 'simditor_rails'`
+`gem 'simditor_rails', github: 'sven199109/simditor'`
 
 Put the code blow in your `application.css`:
 
