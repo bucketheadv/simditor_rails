@@ -1923,7 +1923,7 @@
     Simditor.prototype.opts = {
       textarea: null,
       placeholder: '',
-      defaultImage: 'images/image.png',
+      defaultImage: '/assets/image.png',
       params: {},
       upload: false,
       tabIndent: true

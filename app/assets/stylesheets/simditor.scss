@@ -46,7 +46,7 @@ $simditor-button-height: 40px;
       span {
         width: 30px;
         height: 30px;
-        background: #ffffff url(../images/loading-upload.gif) no-repeat center center;
+        background: #ffffff image_url("loading-upload.gif") no-repeat center center;
         border-radius: 30px;
         position: absolute;
         top: 50%;
